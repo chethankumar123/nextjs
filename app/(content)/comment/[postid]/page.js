@@ -1,5 +1,4 @@
 'use client';
-import Comment from '@/components/comment/Comment';
 import CommentHeader from '@/components/comment/CommentHeader';
 import CommentInput from '@/components/comment/CommentInput';
 import NoCommentsMessage from '@/components/comment/NoCommentsMessage';
